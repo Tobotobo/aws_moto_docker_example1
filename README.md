@@ -66,6 +66,9 @@ motoserver-1  | Press CTRL+C to quit
 > WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
 警告: これは開発サーバーです。運用環境では使用しないでください。代わりに実稼働 WSGI サーバーを使用してください。
 
+### ダッシュボード
+http://localhost:3000/moto-api/
+
 ### aws コマンド
 
 #### プロファイル作成
